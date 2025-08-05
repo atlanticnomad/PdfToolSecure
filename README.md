@@ -47,8 +47,9 @@ Der vollständige Quellcode ist hier verfügbar:
 
 ## 💻 Screenshot
 
-![Screenshot](screenshot.png)  
-*→ Lade dein Bild `screenshot.png` ins Repository hoch, damit es hier angezeigt wird.*
+![Screenshot](s<img width="1911" height="1026" alt="APP_Screenshot" src="https://github.com/user-attachments/assets/1e99cc31-fc9d-4482-89d5-ab69b34d2910" />
+creenshot.png)  
+App_Foto
 
 ---
 
