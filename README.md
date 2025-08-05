@@ -18,6 +18,11 @@ A simple and powerful PDF tool for Windows — no installation required!
 - 🌐 Interface in English and German  
 - 🖥️ Desktop-friendly, no setup required
 
+## 🔧 Source Code
+
+The full source code is available here:  
+👉 [GitHub Repository](https://github.com/atlanticnomad/PdfToolSecure)
+
 ---
 
 ## 🇩🇪 Deutsch
@@ -33,13 +38,17 @@ Ein sicheres und benutzerfreundliches PDF-Tool für Windows.
 
 👉 [Hier die neueste Version herunterladen](https://github.com/atlanticnomad/PdfToolSecure/releases/download/v1.0.0/pdf_tool_secure_gui.zip)
 
+## 🔧 Quellcode
+
+Der vollständige Quellcode ist hier verfügbar:  
+👉 [GitHub Repository](https://github.com/atlanticnomad/PdfToolSecure)
+
 ---
 
 ## 💻 Screenshot
 
-![Screenshot](screenshot.png)
-
-*→ Tipp: Lade dein Screenshot-Bild im Repo hoch und benenne es `screenshot.png`, damit es hier angezeigt wird.*
+![Screenshot](screenshot.png)  
+*→ Lade dein Bild `screenshot.png` ins Repository hoch, damit es hier angezeigt wird.*
 
 ---
 
